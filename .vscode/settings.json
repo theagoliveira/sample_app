@@ -1,0 +1,14 @@
+{
+  "[erb]": {
+    "editor.defaultFormatter": "mbessey.vscode-rufo",
+    "editor.formatOnSave": true
+  },
+  "[gemfile]": {
+    "editor.defaultFormatter": "mbessey.vscode-rufo",
+    "editor.formatOnSave": true
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "mbessey.vscode-rufo",
+    "editor.formatOnSave": true
+  }
+}
