@@ -112,8 +112,12 @@ For example, to check out the branch for Chapter 7, you would run this at the co
 git checkout sign-up
 ```
 
-## Help with the Rails Tutoiral
+## Help with the Rails Tutorial
 
 Experience shows that comparing code with the reference app is often helpful for debugging errors and tracking down discrepancies. For additional assistance with any issues in the tutorial, please consult the [Rails Tutorial Help page](https://www.railstutorial.org/help).
 
 Suspected errors, typos, and bugs can be emailed to <support@learnenough.com>. All such reports are gratefully received, but please double-check with the [online version of the tutorial](https://www.railstutorial.org/book) and this reference app before submitting.
+
+## Deployment
+
+App deployed on [Heroku](https://obscure-shelf-96463.herokuapp.com/)
