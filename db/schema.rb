@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_01_24_024857) do
+ActiveRecord::Schema.define(version: 2022_01_24_041520) do
 
 # Could not dump table "sqlite_stat1" because of following StandardError
 #   Unknown type '' for column 'tbl'
@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2022_01_24_024857) do
     t.string "email"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "password_digest"
     t.index ["email"], name: "index_users_on_email", unique: true
   end
 
